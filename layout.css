@@ -1,0 +1,33 @@
+.header {
+	height: 100px;
+	font-size: 24px;
+	text-align: center;
+	background-color: #BB62AB;
+}
+.content {
+	height: 400px;
+}
+.left {
+	width: 200px;
+	height: 100%;
+	float: left;
+	background-color: #ECB9E8;
+}
+.middle {
+	width: 560px;
+	height: 100%;
+	float: left;
+}
+.right {
+	width: 200px;
+	height: 100%;
+	float: left;
+	background-color: #9343B9;
+}
+.footer {
+	height: 100px;
+	font-size: 24px;
+	text-align: center;
+	background-color: #7A2875;
+}
+
