@@ -6,22 +6,26 @@
 }
 .content {
 	height: 400px;
+	padding-left: 200px;
+    padding-right: 200px;
 }
 .left {
 	width: 200px;
 	height: 100%;
+	margin-left: -200px;
 	float: left;
 	background-color: #ECB9E8;
 }
 .middle {
-	width: 560px;
 	height: 100%;
-	float: left;
+	width: 100%;
+	float: left;	
 }
 .right {
 	width: 200px;
 	height: 100%;
-	float: left;
+	margin-right: -200px;
+	float: right;
 	background-color: #9343B9;
 }
 .footer {
